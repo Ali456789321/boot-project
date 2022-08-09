@@ -1,0 +1,27 @@
+.background {
+    background-color: black;
+}
+
+.img2 {
+    background-image: url(pexels-enric-cruz-l%C3%B3pez-6039245.jpg);
+    height:400px;
+}
+
+input {
+    background-color: black
+}
+
+
+.font {
+    font-family: 'Lato', sans-serif;
+    font-size:40px;
+}
+
+.button {
+    border-radius :16px;
+}
+
+
+.font2 {
+    font-family: 'Hubballi', cursive;
+}

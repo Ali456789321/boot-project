@@ -1,0 +1,40 @@
+.background {
+    background-color: black;
+}
+
+.img {
+    background-image: url(pexels-pixabay-265702.jpg);
+    height:450px;
+    background-size: cover;
+}
+
+.font {
+    font-family: 'Lato', sans-serif;
+}
+
+.size {
+    border-radius: 16px;
+    font-size: 15px;
+}
+
+.font2{
+    font-family: 'Hubballi', cursive;
+}
+
+.anc {
+    text-decoration-color: darkgray;
+}
+
+.width{
+    width: 318px
+}
+
+
+.width2 {
+width: 318px;
+    height: 344px
+}
+
+.button2 {
+    border-radius: 16px;
+}
